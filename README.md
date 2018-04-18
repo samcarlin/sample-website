@@ -1,3 +1,3 @@
-# sample-website
+# Sample Website
 
 First website
